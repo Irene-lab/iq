@@ -1,0 +1,29 @@
+body {
+    font-family: sans-serif;
+}
+h1{
+    text-align: center;
+}
+nav a{
+padding: 50px;
+color: black;
+
+}
+
+main p{
+    border: solid 1px black;
+   border-radius: 10px 10px 10px 10px; 
+   
+}
+.olo{
+    border-left:dotted 10px black ;
+}
+footer{
+    background-color: rgb(97, 97, 97);
+    padding: 10px;
+}
+footer p{
+    background-color: white;
+    padding: 5px;
+}
+
